@@ -1,0 +1,62 @@
+.updatesDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 40px;
+  font-weight: 600;
+  display: inline-block;
+}
+.groupDiv,
+.iconsArrowLeft2Line {
+  position: relative;
+  width: 142px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.iconsArrowLeft2Line {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.leftArrowButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-15xs);
+  background-color: transparent;
+  border-radius: var(--br-3xl);
+  box-sizing: border-box;
+}
+.arrowsDiv,
+.frameDiv,
+.leftArrowButton,
+.rightArrowButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rightArrowButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-15xs);
+  background-color: var(--primary-11);
+  border-radius: var(--br-3xl);
+  box-sizing: border-box;
+}
+.arrowsDiv,
+.frameDiv {
+  gap: var(--gap-7xs);
+}
+.frameDiv {
+  align-self: stretch;
+  padding: var(--padding-5xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-15xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--neutrals-21);
+  font-family: var(--caption-21);
+}

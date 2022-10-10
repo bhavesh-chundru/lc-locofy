@@ -1,0 +1,64 @@
+.offersDeals {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 40px;
+  font-weight: 600;
+  display: inline-block;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-12xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iconsArrowLeft2Line {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.leftArrowDiv,
+.rightArrowDiv {
+  border-radius: var(--br-3xl);
+  padding: var(--padding-15xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.leftArrowDiv {
+  display: flex;
+  flex-direction: row;
+}
+.rightArrowDiv {
+  background-color: var(--primary-11);
+}
+.arrowsDiv,
+.frameSection,
+.rightArrowDiv {
+  display: flex;
+  flex-direction: row;
+}
+.arrowsDiv {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frameSection {
+  align-self: stretch;
+  padding: var(--padding-3xl) var(--padding-5xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--neutrals-21);
+  font-family: var(--caption-21);
+}
+@media screen and (max-width: 1200px) {
+  .frameSection {
+    flex-direction: column;
+  }
+}

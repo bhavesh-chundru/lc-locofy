@@ -1,0 +1,354 @@
+.featuredHotelsB,
+.goOnAnAdventure {
+  position: relative;
+  display: inline-block;
+}
+.featuredHotelsB {
+  line-height: 12px;
+  text-transform: uppercase;
+  color: var(--neutrals-81);
+  width: 311px;
+}
+.goOnAnAdventure {
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.02em;
+  line-height: 40px;
+  font-weight: 600;
+  font-family: var(--caption-21);
+  width: 544px;
+}
+.earnPointsByBookingHotels {
+  position: relative;
+  font-size: var(--body-2-bold1-size);
+  line-height: 24px;
+  display: inline-block;
+  width: 572.25px;
+}
+.frameDiv1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-md) var(--padding-15xl) var(--padding-9xs)
+    var(--padding-14xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.image2Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recommendedB {
+  position: relative;
+  line-height: 12px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.groupIcon,
+.labelDiv {
+  position: absolute;
+  top: 7.3%;
+}
+.labelDiv {
+  height: 16.69%;
+  width: 33.24%;
+  right: 62.94%;
+  bottom: 76.01%;
+  left: 3.82%;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-41);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-15xs) var(--padding-15xs) var(--padding-17xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.groupIcon {
+  height: 16.86%;
+  width: 9.51%;
+  right: 4.31%;
+  bottom: 75.84%;
+  left: 86.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.labelDiv1 {
+  position: absolute;
+  height: 13.56%;
+  width: 28.82%;
+  top: 80.3%;
+  right: 4.41%;
+  bottom: 6.14%;
+  left: 66.76%;
+  border-radius: var(--br-2xl);
+  background-color: var(--neutrals-21);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-15xs) var(--padding-11xs) var(--padding-17xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv2 {
+  align-self: stretch;
+  position: relative;
+  height: 191.78px;
+  flex-shrink: 0;
+  color: var(--neutrals-81);
+}
+.guindyDiv,
+.hyattCentricCandolimGoa {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.hyattCentricCandolimGoa {
+  font-size: var(--body-text-medium-bold1-size);
+  line-height: 24px;
+  color: var(--neutrals-21);
+}
+.guindyDiv {
+  line-height: 20px;
+  font-family: var(--caption-21);
+}
+.starIcon {
+  position: relative;
+  width: 17.75px;
+  height: 17.75px;
+  flex-shrink: 0;
+}
+.frameDiv3,
+.frameDiv4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.frameDiv3 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: var(--padding-12xs) var(--padding-12xs) 0;
+  box-sizing: border-box;
+  gap: var(--gap-10xs);
+}
+.div {
+  position: relative;
+  text-decoration: line-through;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  font-family: var(--button-21);
+}
+.div1 {
+  position: relative;
+  line-height: 32px;
+  font-weight: 600;
+  display: inline-block;
+}
+.frameDiv7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: var(--body-1-bold1-size);
+  color: var(--neutrals-21);
+  font-family: var(--button-21);
+}
+.inclusiveOfTaxes,
+.perNightPerRoom {
+  position: relative;
+  font-size: var(--small1-size);
+  line-height: 12px;
+  text-align: right;
+  display: inline-block;
+}
+.inclusiveOfTaxes {
+  align-self: stretch;
+  color: var(--neutrals-11);
+}
+.earnDiv,
+.frameIcon {
+  position: relative;
+  flex-shrink: 0;
+}
+.earnDiv {
+  line-height: 24px;
+  display: inline-block;
+  width: 33.3px;
+}
+.frameIcon {
+  width: 11.64px;
+  height: 10.38px;
+}
+.div2 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.earnPointsDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-13xs);
+  color: var(--neutrals-31);
+}
+.frameDiv5 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) var(--padding-12xs) 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-14xs);
+  font-size: var(--button-21-size);
+  font-family: var(--caption-21);
+}
+.image3Icon {
+  position: relative;
+  width: 17.15px;
+  height: 11.32px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div3 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xs);
+}
+.veryGood208Reviews {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.frameDiv10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--caption-21-size);
+  color: var(--neutrals-41);
+  font-family: var(--caption-21);
+}
+.component22Main,
+.frameDiv8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frameDiv8 {
+  align-self: stretch;
+  padding: var(--padding-12xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  font-size: var(--button-21-size);
+  color: var(--color-black);
+}
+.component22Main {
+  background-color: var(--color-white);
+  width: 340px;
+  height: 469px;
+  flex-shrink: 0;
+  align-items: flex-end;
+  text-align: left;
+  font-size: var(--caption-21-size);
+  color: var(--neutrals-41);
+  font-family: var(--button-21);
+}
+.frameDiv32,
+.frameSection {
+  display: flex;
+  box-sizing: border-box;
+}
+.frameSection {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-11xl) var(--padding-9xs)
+    var(--padding-14xl);
+  align-items: center;
+  justify-content: space-between;
+}
+.frameDiv32 {
+  flex: 1;
+  width: 107px;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) var(--padding-12xs) 0;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-14xs);
+  font-size: var(--button-21-size);
+  font-family: var(--caption-21);
+}
+.frameDiv,
+.frameSection1 {
+  align-self: stretch;
+  display: flex;
+}
+.frameSection1 {
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-11xl) var(--padding-10xl)
+    var(--padding-14xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameDiv {
+  background-color: var(--neutrals-21);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+  text-align: left;
+  font-size: var(--caption-21-size);
+  color: var(--neutrals-61);
+  font-family: var(--button-21);
+}
+@media screen and (max-width: 1200px) {
+  .frameSection {
+    padding-bottom: var(--padding-9xs);
+    box-sizing: border-box;
+  }
+  .frameSection,
+  .frameSection1 {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 768px) {
+  .frameSection,
+  .frameSection1 {
+    flex-direction: column;
+  }
+}

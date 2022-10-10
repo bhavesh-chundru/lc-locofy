@@ -1,0 +1,111 @@
+.image31Traced {
+  position: relative;
+  width: 16.86px;
+  height: 17.25px;
+  flex-shrink: 0;
+}
+.flightsDiv {
+  position: relative;
+  font-size: var(--body-2-bold1-size);
+  line-height: 24px;
+  font-weight: 600;
+  font-family: var(--button-21);
+  color: var(--neutrals-81);
+  text-align: center;
+  display: inline-block;
+}
+.frameDiv,
+.frameDiv1 {
+  display: flex;
+  flex-direction: row;
+}
+.frameDiv1 {
+  border-radius: var(--br-sm);
+  background-color: var(--primary-11);
+  width: 125px;
+  flex-shrink: 0;
+  padding: var(--padding-15xs) var(--padding-13xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xs);
+}
+.frameDiv {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.screenshot20220629At532 {
+  position: relative;
+  width: 21.07px;
+  height: 17.62px;
+  flex-shrink: 0;
+}
+.hotelsDiv {
+  position: relative;
+  font-size: var(--body-2-bold1-size);
+  line-height: 24px;
+  font-weight: 600;
+  font-family: var(--button-21);
+  color: var(--neutrals-41);
+  text-align: center;
+  display: inline-block;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 0;
+  left: -12.61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.navActiveDiv,
+.screenshot20220629At534 {
+  position: relative;
+  width: 70px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.screenshot20220629At534 {
+  width: 21.07px;
+  height: 20.89px;
+}
+.frameDiv3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.packagesDiv {
+  position: relative;
+  font-size: var(--button-21-size);
+  line-height: 16px;
+  font-weight: 500;
+  font-family: var(--button-21);
+  color: var(--neutrals-41);
+  text-align: center;
+  display: none;
+}
+.groupIcon {
+  position: relative;
+  width: 29.06px;
+  height: 22.64px;
+  flex-shrink: 0;
+}
+.nav {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-8xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+}
+@media screen and (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+  }
+}

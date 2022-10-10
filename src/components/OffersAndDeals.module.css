@@ -1,0 +1,252 @@
+.popularB {
+  position: relative;
+  line-height: 12.82px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.labelDiv {
+  position: absolute;
+  top: 17.1px;
+  left: 17.1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--neutrals-81);
+  height: 34.19px;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-14xs) var(--padding-14xs) var(--padding-16xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.image38Icon {
+  position: absolute;
+  top: 17.7px;
+  left: 22.1px;
+  width: 82.81px;
+  height: 45.54px;
+  object-fit: cover;
+}
+.imgDiv {
+  flex: 1;
+  align-self: stretch;
+  position: relative;
+  overflow: hidden;
+  background-image: url(../../public/img2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.pointsBonusOnDomesticFligh {
+  align-self: stretch;
+  position: relative;
+  line-height: 25.64px;
+  font-weight: 600;
+  display: inline-block;
+}
+.titleDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dayB {
+  position: absolute;
+  top: 0;
+  left: -1.07px;
+  line-height: 12.82px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frameDiv {
+  position: relative;
+  width: 34.19px;
+  height: 12.82px;
+  flex-shrink: 0;
+  color: var(--neutrals-51);
+}
+.priceDiv {
+  border-radius: var(--br-3xs);
+  border: 2.1px solid var(--primary-41);
+  box-sizing: border-box;
+  position: relative;
+  display: none;
+  flex-direction: column;
+  padding: var(--padding-14xs) var(--padding-14xs) var(--padding-16xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--primary-41);
+  font-family: var(--caption-21);
+}
+.stayInfoDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-7xl);
+  font-family: var(--button-21);
+}
+.iconsRouteLine {
+  position: relative;
+  width: 17.1px;
+  height: 17.1px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.withSBICreditCardDebitC {
+  flex: 1;
+  position: relative;
+  line-height: 25.64px;
+  display: inline-block;
+}
+.benefit01Div {
+  width: 158.14px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.iconsUserLine {
+  position: relative;
+  width: 17.1px;
+  height: 17.1px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.supplierDiv {
+  position: relative;
+  line-height: 21.37px;
+  display: inline-block;
+}
+.benefit02Div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-6xs);
+}
+.benefit02Div,
+.frameDiv1,
+.frameDiv2 {
+  justify-content: flex-start;
+}
+.frameDiv2 {
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: var(--font-size-lg);
+  font-family: var(--button-21);
+}
+.frameDiv1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-12xl);
+  color: var(--neutrals-41);
+}
+.divider,
+.frameIcon {
+  position: relative;
+  flex-shrink: 0;
+}
+.divider {
+  align-self: stretch;
+  border-radius: var(--br-6xs);
+  background-color: var(--neutrals-61);
+  height: 1.07px;
+  overflow: hidden;
+}
+.frameIcon {
+  width: 12.82px;
+  height: 16.03px;
+}
+.gOSBIDiv {
+  position: relative;
+  line-height: 25.64px;
+  font-weight: 500;
+  display: inline-block;
+}
+.bottomDiv,
+.labelDiv1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.labelDiv1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-41);
+  height: 34.19px;
+  padding: var(--padding-14xs) var(--padding-14xs) var(--padding-16xs);
+  box-sizing: border-box;
+  justify-content: center;
+  font-size: var(--font-size-lg);
+  color: var(--neutrals-81);
+}
+.bottomDiv {
+  align-self: stretch;
+  justify-content: space-between;
+  color: var(--neutrals-21);
+}
+.infoDiv,
+.rentACarCarddefaultlight {
+  box-sizing: border-box;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+}
+.infoDiv {
+  width: 307.73px;
+  flex-direction: column;
+  padding: var(--padding-2xs);
+  align-items: center;
+  gap: var(--gap-md);
+  font-size: var(--font-size-3xl);
+  color: var(--light-black1);
+}
+.rentACarCarddefaultlight {
+  border-radius: var(--br-lg);
+  background-color: var(--neutrals-81);
+  border: 1.1px solid var(--neutrals-61);
+  position: relative;
+  width: 581.26px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.imgDiv1 {
+  flex: 1;
+  align-self: stretch;
+  position: relative;
+  overflow: hidden;
+  background-image: url(../../public/img3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frameSection {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--neutrals-21);
+  font-family: var(--caption-21);
+}
+@media screen and (max-width: 1200px) {
+  .frameSection {
+    flex-direction: column;
+  }
+}
